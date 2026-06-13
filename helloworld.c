@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* my comment */
+/* Random Comment Yep */
 
 int main() {
   printf("Hello, World!\n");
